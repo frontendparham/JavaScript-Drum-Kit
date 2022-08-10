@@ -13,7 +13,7 @@ Design a drum kit in which you can play drums with keyboard buttons, Only Vanill
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Ecolearn-Login-Page/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/JavaScript-Drum-Kit/)
 
 ## My process
 
